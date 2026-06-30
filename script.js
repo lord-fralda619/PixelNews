@@ -1,5 +1,5 @@
 const botao = document.getElementById('botao');
 
 botao.addEventListener('click', () => {
-    alert('Você clicou no botão!');
+    document.getElementById("Historia").innerText= "teste";
 });
