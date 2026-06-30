@@ -1,7 +1,9 @@
 body {
-    background-color: #289728;
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
+   background-image:
+   url("CapaOcarinaOfTime.jpg");
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
 }
 
 button {
